@@ -1,2 +1,2 @@
-# csgo-download-wingman-demos-script
-Python script for downloading cs:go wingman demos.
+# csgo-download-wingman-demos
+A python script for downloading cs:go wingman demos.
